@@ -25,7 +25,7 @@ Here are a few featured projects that I'm particularly proud of:
     2. [Cathal](https://github.com/cathalpaz)
     3. [Jason](https://github.com/jmurphy1196)
 2. [SimpleFix](https://simplefix.onrender.com/): A simple and easy to use ticket mangement system for repair services.
-3. [Meat-Up](https://jp-meetup-solo-project.onrender.com/): This is my first full stack project at App Academy! It is a place where you can create events and groups to "Meat Up" with people.
+3. [Meat-Up](https://meat-up.onrender.com/): This is my first full stack project at App Academy! It is a place where you can create events and groups to "Meat Up" with people.
 
 Feel free to explore each project's repository for a deeper dive into the code and design choices.
 

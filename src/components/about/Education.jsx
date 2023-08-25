@@ -2,25 +2,22 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "2023",
+    degree: "FULLSTACK WEB DEVELOPMENT",
+    institute: "APP ACADEMY",
+    details: `A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, Node.JS, MySQL, Express, Python, Flask & ReactJS.`,
   },
   {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+    year: "2020",
+    degree: "EPA CERTIFICATION",
+    institute: "UNITED STATES ENVIRONMENTAL PROTECTION AGENCY",
+    details: `Section 608 Technician Certification`,
   },
   {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "2012-2016",
+    degree: "BACHELOR DEGREE",
+    institute: "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+    details: `Computer Science and Mathematics`
   },
 ];
 
