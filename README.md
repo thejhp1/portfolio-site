@@ -33,7 +33,7 @@ Feel free to explore each project's repository for a deeper dive into the code a
 
 I'm always excited to connect with fellow developers, collaborators, and potential employers. If you're interested in working together or have any questions, please don't hesitate to reach out:
 
-- Email: [thejhp@gmail.com](mailto:thejhp@gmail.com)
+- Email: [thejhp@gmail.com](mailto:thejhp96@gmail.com)
 - LinkedIn: [Jun Park](https://www.linkedin.com/in/jun-park-3b23b7285/)
 - Personal Website: [thejhp.onrender.com](http:/thejhp.onrender.com)
 
