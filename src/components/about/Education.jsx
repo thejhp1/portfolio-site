@@ -5,7 +5,7 @@ const educationContent = [
     year: "2023",
     degree: "FULLSTACK WEB DEVELOPMENT",
     institute: "APP ACADEMY",
-    details: `A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, Node.JS, MySQL, Express, Python, Flask & ReactJS.`,
+    details: `A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, Node.JS, SQL, Express, Python, Flask & ReactJS.`,
   },
   {
     year: "2020",

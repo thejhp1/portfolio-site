@@ -8,11 +8,12 @@ import Contact from "../../components/Contact";
 import Social from "../../components/Social";
 import SwitchDark from "../../components/switch/SwitchDark";
 
+
 const menuItem = [
   { icon: "fa-home", menuName: "Home" },
   { icon: "fa-user", menuName: "About" },
   { icon: "fa-briefcase", menuName: "Portfolio" },
-  { icon: "fa-envelope-open", menuName: "Contact" },
+  { icon: "fa-envelope-open", menuName: "Contact" }
 ];
 
 const HomeDark = () => {
@@ -105,7 +106,9 @@ const HomeDark = () => {
                     Don't be shy !
                   </h3>
                   <p className="open-sans-font mb-4">
-                    Feel free to get in touch with me. I am eager to engage in conversations about new projects, innovative ideas, or potential collaborations that align with your visions.
+                    Feel free to get in touch with me. I am eager to engage in
+                    conversations about new projects, innovative ideas, or
+                    potential collaborations that align with your visions.
                   </p>
                   <Address />
                   {/* End Address */}

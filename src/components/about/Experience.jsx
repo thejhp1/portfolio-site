@@ -5,14 +5,14 @@ const experienceContent = [
     year: "2020 - 2023",
     position: "CEO & Founder",
     compnayName: "Appliance Pro",
-    details: `Honed my skills in business development, marketing, and customer service while navigating the dynamic landscape of the appliance repair industry. This experience reinforced my ability to identify opportunities, fostor connections, and execute strategies that drive growth.`,
+    details: `Honed my skills in business development, marketing, and customer service while navigating the dynamic landscape of the appliance repair industry. This experience reinforced my ability to identify opportunities, foster connections, and execute strategies that drive growth.`,
   },
   {
     year: "2016 - 2020",
     position: "CEO & Founder",
     compnayName: "Diamond In-Home Service",
     details: `Built a skilled team of technicians, developed efficient operations, and established a strong customer-oriented reputation. Ensured profitable growth through partnerships with different vendors.
-    Implemented effective marketing strategies that enhanced brand visbility, leading to a substantial increase in revenue.`,
+    Implemented effective marketing strategies that enhanced brand visibility, leading to a substantial increase in revenue.`,
   },
   {
     year: "2015 - 2016",
