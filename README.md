@@ -21,9 +21,9 @@ Each project is a testament to my dedication to quality, innovation, and staying
 Here are a few featured projects that I'm particularly proud of:
 
 1. [Slacord](https://slacord.onrender.com/): A clone of Discord. This project was completed as a required group project at App Academy! Check out the other developers:
-    1. [Zachary](https://github.com/zachary5939)
-    2. [Cathal](https://github.com/cathalpaz)
-    3. [Jason](https://github.com/jmurphy1196)
+    - [Zachary](https://github.com/zachary5939)
+    - [Cathal](https://github.com/cathalpaz)
+    - [Jason](https://github.com/jmurphy1196)
 2. [SimpleFix](https://simplefix.onrender.com/): A simple and easy to use ticket mangement system for repair services.
 3. [Meat-Up](https://meat-up.onrender.com/): This is my first full stack project at App Academy! It is a place where you can create events and groups to "Meat Up" with people.
 
