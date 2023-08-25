@@ -4,6 +4,7 @@ import heroImg from "../../assets/img/hero/heromain.jpg";
 import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
+import Typewriter from "typewriter-effect";
 
 const heroContent = {
   heroImage: heroImg,
@@ -40,7 +41,32 @@ const Hero = () => {
             />
             <h1 className="text-uppercase poppins-font">
               Hey there, im {heroContent.heroTitleName}.
-              <span>{heroContent.heroDesignation}</span>
+              <span>
+                <Typewriter
+                  options={{
+                    wrapperClassName: "color-font",
+                    strings: [
+                      "FULLSTACK DEVELOPER",
+                      "FULLSTACK DEVELOPER",
+                      "FULLSTACK DEVELOPER",
+                    ],
+                    autoStart: true,
+                    loop: true,
+                  }}
+                  loop={true}
+                  onInit={(typewriter) => {
+                    typewriter
+                    .pauseFor(1000)   // Pause for a second before starting
+                    // .typeString('Hello!')
+                    // .pauseFor(500)
+                    // .deleteAll()
+                    // .typeString('Welcome to my website.')
+                    // .pauseFor(1000)
+                    .start();
+                  }}
+                />
+
+              </span>
             </h1>
             <p className="open-sans-font">{heroContent.heroDescriptions}</p>
             <button className="button" onClick={toggleModalOne}>

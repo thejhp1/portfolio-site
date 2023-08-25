@@ -664,7 +664,7 @@ body.light .header ul.icon-menu li.icon-box:hover i {
 }
 
 .home .home-details > div {
-  max-width: 331px;
+  max-width: 685px;
   margin: 0 auto;
 }
 
@@ -687,10 +687,28 @@ body.light .header ul.icon-menu li.icon-box:hover i {
   border-radius: 10px;
 }
 
+.color-font {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#12c2e9),
+    color-stop(#c471ed),
+    to(#f64f59)
+  );
+  background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
+  background: -o-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .home .home-details h1 span {
   color: #fff;
-  display: block;
-  // width: 37rem;
+  display: flex;
+}
+
+.home .home-details h1 span>div {
+  display: flex;
 }
 
 .home .home-details h6 {
@@ -1369,6 +1387,15 @@ body.light .contact .custom-span-contact a {
     font-size: 42px;
     line-height: 52px;
   }
+  .row > * {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 174px;
+  }
+
+  .home .home-details h1 span {
+    width: 31rem;
+  }
 }
 
 @media (max-width: 1100px) and (min-width: 992px) {
@@ -1379,7 +1406,7 @@ body.light .contact .custom-span-contact a {
 
 @media (min-width: 1600px) {
   .home .home-details > div {
-    max-width: 600px;
+    max-width: 685px;
   }
 }
 
@@ -1612,6 +1639,10 @@ body.light .contact .custom-span-contact a {
     height: 32px;
     display: block;
     line-height: 0;
+  }
+
+  .home .home-details h1 span {
+    justify-content: center;
   }
 
   .portfolio .slideshow nav span.nav-close img {
