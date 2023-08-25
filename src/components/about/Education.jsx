@@ -14,7 +14,7 @@ const educationContent = [
     details: `Section 608 Technician Certification`,
   },
   {
-    year: "2012-2016",
+    year: "2012-2014",
     degree: "BACHELOR DEGREE",
     institute: "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
     details: `Computer Science and Mathematics`
