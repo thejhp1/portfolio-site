@@ -16,10 +16,10 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Envato",
-        language: "HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com/",
+        client: "App Academy",
+        language: "HTML, CSS, Javascript, React, Redux, Node.js, Express, PostgreSQL",
+        preview: "www.slacord.com",
+        link: "https://slacord.onrender.com/",
       },
     ],
   },
@@ -32,11 +32,11 @@ const PortfolioData = [
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "Website",
+        client: "App Academy",
+        language: "HTML, CSS, Javascript, React, Redux, Node.js, Express, PostgreSQL",
+        preview: "www.meat-up.com",
+        link: "https://meat-up.onrender.com",
       },
     ],
   },
@@ -50,10 +50,10 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Themeforest",
+        client: "App Academy",
         language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        preview: "www.simplefix.com",
+        link: "https://simplefix.onrender.com",
       },
     ],
   },
