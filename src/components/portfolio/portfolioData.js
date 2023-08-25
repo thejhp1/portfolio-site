@@ -17,7 +17,7 @@ const PortfolioData = [
       {
         project: "Website",
         client: "App Academy",
-        language: "HTML, CSS, Javascript, React, Redux, Node.js, Express, PostgreSQL",
+        language: "HTML, CSS, Javascript, React/Redux, Express, PostgreSQL",
         preview: "www.simplefix.com",
         link: "https://simplefix.onrender.com",
       },
@@ -33,8 +33,8 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "App Academy",
-        language: "HTML, CSS, Javascript, React, Redux, Node.js, Express, PostgreSQL",
+        client: "First Ever FullStack Project at App Academy",
+        language: "HTML, CSS, Javascript, React/Redux, Express, PostgreSQL",
         preview: "www.meat-up.com",
         link: "https://meat-up.onrender.com",
       },
@@ -50,8 +50,8 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "App Academy",
-        language: " HTML, CSS, Javascript, React, Redux, Node.js, Flask, PostgreSQL, Python",
+        client: "Cathal Paz, Jason Murphy, Zachary Stallings",
+        language: " HTML, CSS, Javascript, React/Redux, Flask, PostgreSQL, Python",
         preview: "www.slacord.com",
         link: "https://slacord.onrender.com/",
       },

@@ -111,7 +111,7 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Info :{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
