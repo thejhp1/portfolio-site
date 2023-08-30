@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-import heroImg from "../../assets/img/hero/heromain.jpg";
-import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
+import heroImg from "../../assets/img/hero/heromain.png";
+import heroImgMobile from "../../assets/img/hero/img-mobile.png";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
 import Typewriter from "typewriter-effect";
