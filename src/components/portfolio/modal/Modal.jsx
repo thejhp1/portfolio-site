@@ -1,6 +1,7 @@
 import React from "react";
 import img1 from "../../../assets/img/portfolio/slacord-server.gif";
 import img2 from "../../../assets/img/portfolio/slacord-gif.gif";
+import img3 from "../../../assets/img/portfolio/simplefix-googlemap.gif"
 import CloseImg from "../../../assets/img/cancel.svg";
 import PortfolioData from "../portfolioData";
 import Slider from "react-slick";
@@ -71,7 +72,14 @@ const Modal = ({ modalId, setGetModal }) => {
                   })}
                 </div>
                 <figure className="modal__img">
-                  <img src={item.secondaryImage} alt="portfolio project demo" />
+                  <Slider {...settings}>
+                    <div>
+                      <img src={item.secondaryImage} alt="portfolio project demo" />
+                    </div>
+                    <div>
+                      <img src={img3} alt="portfolio project demo" />
+                    </div>
+                  </Slider>
                 </figure>
 
                 <button

@@ -692,13 +692,13 @@ body.light .header ul.icon-menu li.icon-box:hover i {
     linear,
     left top,
     right top,
-    from(#12c2e9),
-    color-stop(#c471ed),
-    to(#f64f59)
+    from(#1ad55e),
+    color-stop(#fb8600),
+    to(#004bff)
   );
-  background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
-  background: -o-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
-  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  background: -webkit-linear-gradient(left, #1ad55e, #fb8600, #004bff);
+  background: -o-linear-gradient(left, #1ad55e, #fb8600, #004bff);
+  background: linear-gradient(to right, #1ad55e, #fb8600, #004bff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

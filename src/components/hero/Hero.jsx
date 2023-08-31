@@ -47,8 +47,8 @@ const Hero = () => {
                     wrapperClassName: "color-font",
                     strings: [
                       "FULLSTACK DEVELOPER",
-                      "FULLSTACK DEVELOPER",
-                      "FULLSTACK DEVELOPER",
+                      "SOFTWARE ENGINEER",
+                      "CAT LOVER",
                     ],
                     autoStart: true,
                     loop: true,
