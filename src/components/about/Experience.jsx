@@ -2,6 +2,12 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "2023 - PRESENT",
+    position: "FULL STACK SOFTWARE ENGINEER",
+    compnayName: "CUBESEED AFRICA",
+    details: `Cubeseed is a contract-driven marketplace that facilitates seamless agro-trade and connects smallholder farmers to markets, finance, quality inputs and services.`,
+  },
+  {
     year: "2020 - 2023",
     position: "CEO & Founder",
     compnayName: "Appliance Pro",

@@ -46,8 +46,8 @@ const Hero = () => {
                   options={{
                     wrapperClassName: "color-font",
                     strings: [
-                      "FULLSTACK DEVELOPER",
                       "SOFTWARE ENGINEER",
+                      "FULLSTACK DEVELOPER",
                       "CAT LOVER",
                     ],
                     autoStart: true,
@@ -57,11 +57,6 @@ const Hero = () => {
                   onInit={(typewriter) => {
                     typewriter
                     .pauseFor(1000)   // Pause for a second before starting
-                    // .typeString('Hello!')
-                    // .pauseFor(500)
-                    // .deleteAll()
-                    // .typeString('Welcome to my website.')
-                    // .pauseFor(1000)
                     .start();
                   }}
                 />
