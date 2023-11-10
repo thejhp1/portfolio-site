@@ -4,7 +4,7 @@ const experienceContent = [
   {
     year: "2023 - PRESENT",
     position: "FULL STACK SOFTWARE ENGINEER",
-    compnayName: "CUBESEED AFRICA",
+    compnayName: "Cubeseed Africa",
     details: `Cubeseed is a contract-driven marketplace that facilitates seamless agro-trade and connects smallholder farmers to markets, finance, quality inputs and services.`,
   },
   {
